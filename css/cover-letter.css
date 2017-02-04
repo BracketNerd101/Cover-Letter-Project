@@ -1,0 +1,283 @@
+
+ a:hover{
+    
+    color:white;
+}
+
+.button-styles{
+    
+    
+    color:white;
+}
+
+.button-styles:hover{
+    
+    
+    color:limegreen;
+}
+.icon-bar{
+    
+    color:limegreen;
+}
+
+.navbar-nav{
+
+    color:white;
+    
+    
+}
+
+burger-style{
+    
+
+    border: solid limegreen 2px;
+}
+
+button{
+    
+    color:lime;
+
+}
+
+
+.navbar-brand> {
+    
+    color:limegreen;
+    height: inherit;
+    
+}
+
+.brand-color{
+    margin-top: 3rem;
+    color: limegreen;
+    font-family:sans-serif;
+    
+    
+}
+
+
+/*------------- NAV Section Ends Here---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#Hello{
+    
+    height: 55rem;
+    margin-bottom:
+}
+
+
+.Say-Hello{
+    
+    margin-top:4rem;
+    
+    
+}
+
+.Say-Hello{
+    
+    background-color: rgba(104, 111, 122,0.4);
+    background-image: url(../img/shattered.png);
+    height: inherit;
+    
+    
+    
+}
+
+.greetings{
+    text-align: center;
+    font-weight: 200;
+    
+    
+    
+}
+
+/*------------- The goods Stars Here---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+
+#card-transparent{
+    
+    background-color:rgba(255, 255, 255, 0.9);
+    
+    padding-left: 5rem;
+    padding-right:5rem;
+    padding-bottom: 5rem;
+
+    
+}
+
+
+#Experience{
+    
+    
+    overflow: hidden;
+    background-color:#333;
+    background-image: url(../img/work-station.jpg);
+    background-size: cover;
+}
+
+.the-goods{ 
+    text-align: center;
+    margin-top: 15rem;
+    font-style: light;
+    margin-bottom: 15rem;
+     
+    
+    
+    
+    
+}
+
+
+.Tools{
+    
+    
+    margin-bottom: 4rem;
+}
+
+.tools-header{
+    
+    color:white;
+    margin-bottom: 
+    
+}
+
+
+.process-the-goods{
+    
+    margin-bottom: 7rem;
+    padding-bottom:15rem;
+    margin-top: 4rem;
+        
+    
+}
+
+.process-copy{
+    
+    text-align: left;
+    
+    
+}
+
+.card-text{
+    
+    text-align: center;
+}
+
+.process-text{
+    
+    margin-bottom: 7rem;
+    margin-top: 4rem;
+}
+
+.card-heads{
+    
+    color:darkgreen;
+}
+
+.card-text2{
+    
+    text-align: left;
+    color:#777777;
+}
+
+.good-header{
+    
+    color:darkgreen;
+    font-weight:200;
+    text-align: center;
+    margin-top: 2rem;
+}
+
+.card-title{
+    
+    text-align: center;
+}
+
+
+#Partnership{
+    
+    margin-bottom: 15rem;
+    margin-top: -25rem;
+}
+
+
+#Tools{
+    
+    margin-bottom: 17rem;
+    padding-bottom: 15rem;
+    background-image: url(../img/green-fancy-pants.jpg); 
+    
+}
+
+.process-copy-growth{
+    
+    padding-bottom: 4rem;
+    text-align: left;
+        
+}
+
+
+.partner-icon{
+    
+    text-align: center;
+    color:limegreen;
+}
+
+/*------------- FOOTER CSS---------------------------------------------------------------------------------------------------------------------------------------------------------------------*/
+
+#Contact{
+    
+    height:20rem;
+    background-color:#333;
+    margin-top: -15rem;
+    
+}
+
+
+.footer{
+    
+    background-color:#333;
+    background-image: url(../img/fancy-pants.jpg);
+    color:white;
+    height:inherit;
+    
+    
+}
+
+
+.footer-the-goods{ 
+    text-align: center;
+    padding-bottom: 4rem;
+    padding-top: 3rem;
+    
+    
+    
+    
+}
+
+
+
+
+
+.partnership-the-goods{
+    
+    height:35rem;
+    margin-top: 8rem;
+    text-align: center;
+}
+
+#Partnership{
+    background-image: url(../img/noise_pattern_with_crosslines.png);
+
+}
+
+
+a{
+    
+    transition: all 4.3s ease-out;
+    transition-property: all;
+    transition-duration: 6.8s;
+    transition-timing-function: ease-out;
+    transition-delay: initial;
+    color:white;
+    
+}
